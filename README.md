@@ -54,5 +54,5 @@
 [website]: https://facundo-cachan.com
 [twitter]: https://twitter.com/f4qndo
 [youtube]: https://youtube.com/FacundoCachan
-[instagram]: https://instagram.com/facundoc_
+[instagram]: https://instagram.com/facundo.cachan
 [linkedin]: https://linkedin.com/in/facundo-cachan
