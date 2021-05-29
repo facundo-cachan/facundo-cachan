@@ -77,7 +77,7 @@
 |-------------|-
 |Semantic|`Yes`|
 |Forms & Validations|`Yes`|
-|Conventiosn|`Yes`|
+|Conventions|`Yes`|
 |God Practices|`Yes`|
 |Accesibility|`Yes`|
 |SEO|`Yes`|
