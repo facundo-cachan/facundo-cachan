@@ -138,7 +138,7 @@
 |Modern CSS|Learned|
 |-------------|-
 |Styled Components|`Yes`|
-|Material-UI|`No`|
+|Material-UI|`Yes`|
 |Bootstrap|`Yes`|
 |TailWind|`Ever`|
 
