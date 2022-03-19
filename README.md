@@ -128,6 +128,20 @@
 |Prettier|`Yes`|
 |ESLint|`Yes`|
 
+|Testing Tools|Learned|
+|-------------|-
+|Jest|`Yes`|
+|Selenium|`No`|
+|Cypress|`No`|
+|Puppeteer|`No`|
+
+|CI/CD Tools|Learned|
+|-------------|-
+|GitHub|`WIP`|
+|GitLab|`WIP`|
+|CircleCI|`No`|
+|Jenkins|`No`|
+
 |Frame Works|Learned|
 |-------------|-
 |React JS|`Yes`|
