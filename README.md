@@ -134,6 +134,7 @@
 |Selenium|`No`|
 |Cypress|`No`|
 |Puppeteer|`No`|
+|Checkly|`Yes`|
 
 |CI/CD Tools|Learned|
 |-------------|-
