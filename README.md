@@ -140,6 +140,7 @@
 |-------------|-
 |GitHub|`WIP`|
 |GitLab|`WIP`|
+|Verce|`Yes`|
 |CircleCI|`No`|
 |Jenkins|`No`|
 
