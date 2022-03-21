@@ -131,10 +131,8 @@
 |Testing Tools|Learned|
 |-------------|-
 |Jest|`Yes`|
-|Selenium|`No`|
-|Cypress|`No`|
+|Cypress|`WIP`|
 |Puppeteer|`No`|
-|Checkly|`Yes`|
 
 |CI/CD Tools|Learned|
 |-------------|-
