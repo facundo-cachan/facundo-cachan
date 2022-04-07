@@ -138,7 +138,7 @@
 |-------------|-
 |GitHub|`WIP`|
 |GitLab|`WIP`|
-|Verce|`Yes`|
+|Vercel|`Yes`|
 |CircleCI|`No`|
 |Jenkins|`No`|
 
