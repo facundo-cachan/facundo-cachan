@@ -62,7 +62,7 @@
 ## Software Developer RoadMap
 ## _Source, https://roadmap.sh/_
 
-## Frontend Developer
+## FrontEnd Developer
 
 |Internet|Learned|
 |-------------|-
@@ -83,7 +83,6 @@
 |SEO|`Yes`|
 |SEM|`Yes`|
 |Responsive|`Yes`|
-
 
 |CSS|Learned|
 |-------------|-
@@ -136,7 +135,7 @@
 
 |CI/CD Tools|Learned|
 |-------------|-
-|GitHub|`WIP`|
+|GitHub|`Yes`|
 |GitLab|`WIP`|
 |Vercel|`Yes`|
 |CircleCI|`No`|
@@ -189,7 +188,14 @@
 
 |Static Site Generator|Learned|
 |-------------|-
-|NextJS|`Yes`|
-|Gatsby|`Yes`|
-|Nuxt.js|`Ever`|
+|NextJS. |`Yes`|
+|Gatsby  |`Yes`|
+|Nuxt.js |`Ever`|
 |VuePress|`Ever`|
+
+## BackEnd Developer
+
+|SSR|Learned|
+|-------------|-
+|Express.js|`Yes`|
+|NestJS    |`WIP`|
