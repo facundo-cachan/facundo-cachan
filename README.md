@@ -3,6 +3,9 @@
 ## I am an enthusiastic developer!
 - 🌱 I’m currently learning everything 🤣
 
+![Facundo GitHub Stats](https://github-readme-stats.vercel.app/api?username=facundo-cachan&show_icons=true)
+
+
 ### Connect with me:
 
 [<img align="left" alt="facundo-cachan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
