@@ -125,7 +125,6 @@
 
 |Build Tools|Learned|
 |-------------|-
-|npm scripts|`Yes`|
 |WebPack|`Yes`|
 |Prettier|`Yes`|
 |ESLint|`Yes`|
@@ -134,14 +133,14 @@
 |-------------|-
 |Jest|`Yes`|
 |Cypress|`WIP`|
-|Puppeteer|`No`|
+|Puppeteer|`WIP`|
 
 |CI/CD Tools|Learned|
 |-------------|-
 |GitHub|`Yes`|
-|GitLab|`WIP`|
+|GitLab|`Yes`|
 |Vercel|`Yes`|
-|CircleCI|`No`|
+|CircleCI|`WIP`|
 |Jenkins|`No`|
 
 |Frame Works|Learned|
@@ -196,6 +195,12 @@
 |Nuxt.js |`Ever`|
 |VuePress|`Ever`|
 
+## Blockchain
+
+|Tool|Status|
+|-------------|-
+|Solidity|`WIP`|
+
 ## BackEnd Developer
 
 |SSR|Learned|
@@ -203,6 +208,15 @@
 |Express.js|`Yes`|
 |NestJS    |`WIP`|
 
+|DataBases|Learned|
+|-------------|-
+|SQL|`MySQL`|
+|NoSQL|`Mongo`|
+|Cloud|`Firebase, Firestore`|
+
+|FaaS|Learned|
+|-------------|-
+|AWS Lambda|`WIP`|
 
 ## DevOps
 
