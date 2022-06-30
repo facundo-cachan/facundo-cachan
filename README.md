@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pwa.svg" />](https://facundo-cachan.dev/){:target="_blank"}
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](https://www.linkedin.com/in/facundo-cachan/){:target="_blank"}
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/facundo.cachan/){:target="_blank"}
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/facundo_cachan/){:target="_blank"}
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />]([https://facundo-cachan.dev](https://www.youtube.com/c/FacundoCachan/videos)){:target="_blank"}
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pwa.svg" />](https://facundo-cachan.dev/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](https://www.linkedin.com/in/facundo-cachan/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/facundo.cachan/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/facundo_cachan/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />](https://www.youtube.com/c/FacundoCachan/videos)
 
 <br />
 <br />
