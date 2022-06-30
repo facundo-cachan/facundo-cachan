@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-:globe_with_meridians:
+[:globe_with_meridians:](https://facundo-cachan.dev)
 [<img align="left" alt="facundo-cachan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Facundo Cachan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Facundo Cachan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
