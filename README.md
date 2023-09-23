@@ -37,6 +37,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+<img src="https://raw.githubusercontent.com/facundo-cachan/facundo-cachan/output/snake.svg" alt="Snake animation" />
 <!-- BLOG-POST-LIST:END -->
 
 ---
