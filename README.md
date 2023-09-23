@@ -37,7 +37,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<img src="https://raw.githubusercontent.com/facundo-cachan/facundo-cachan/output/snake.svg" alt="Snake animation" />
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -199,12 +198,13 @@
 |DataBases|Learned|
 |-------------|-
 |SQL|`MySQL`|
-|NoSQL|`Mongo`|
+|NoSQL|`MongoDB`|
 |Cloud|`Firebase, Firestore`|
 
 |FaaS|Learned|
 |-------------|-
 |AWS Lambda|`WIP`|
+|AWS Cognitio|`WIP`|
 
 ## DevOps
 
