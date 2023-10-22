@@ -130,6 +130,11 @@
 |CircleCI|`WIP`|
 |Jenkins|`No`|
 
+|Stores App|Learned|
+|-------------|-
+|Google Play|`Yes`|
+|Apple Testflight|`Yes`|
+
 |Frame Works|Learned|
 |-------------|-
 |React JS|`Yes`|
