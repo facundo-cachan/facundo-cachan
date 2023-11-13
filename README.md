@@ -79,7 +79,8 @@
 |MediaQueries|`Yes`|
 |Transitions & Animations|`Yes`|
 |Layouts|`Yes`|
-|FlexBox|`Working On It`|
+|Tailwind|`Yes`|
+|FlexBox|`Yes`|
 |Grid|`Working On It`|
 |FrameWorks|`Yes`|
 
