@@ -80,7 +80,7 @@
 |Transitions & Animations|`Yes`|
 |Layouts|`Yes`|
 |FlexBox|`Yes`|
-|Grid|`Working On It`|
+|Grid|`Yes`|
 |FrameWorks|`Yes`|
 
 |JavaScript|Learned|
@@ -91,6 +91,11 @@
 |ES6|`Yes`|
 |Shadow DOM|`Ever`|
 |Scope|`Yes`|
+
+|Python|Learned|
+|-------------|-
+|Basics|`Yes`|
+|Structures & Algorithms|`WIP`|
 
 |SVN - GIT|Learned|
 |-------------|-
@@ -119,6 +124,7 @@
 |Testing Tools|Learned|
 |-------------|-
 |Jest|`Yes`|
+|Maestro.dev|`Yes`|
 |Cypress|`WIP`|
 |Puppeteer|`WIP`|
 
@@ -139,7 +145,7 @@
 |-------------|-
 |React JS|`Yes`|
 |VUE JS|`Ever`|
-|Angular|`No`|
+|Angular|`Ever`|
 |NextJS|`Yes`|
 
 |Modern CSS|Learned|
@@ -147,7 +153,7 @@
 |Styled Components|`Yes`|
 |Material-UI|`Yes`|
 |Bootstrap|`Yes`|
-|TailWind|`Ever`|
+|TailwindCSS|`Yes`|
 
 |Web Components|Learned|
 |-------------|-
@@ -198,7 +204,7 @@
 |SSR|Learned|
 |-------------|-
 |Express.js|`Yes`|
-|NestJS    |`WIP`|
+|NestJS    |`Yes`|
 
 |DataBases|Learned|
 |-------------|-
